@@ -12,7 +12,7 @@
 
 ## Hi, I'm Vyshnavi 👋
 
-I build **backend systems and AI agents**, with a focus on what happens after the happy path: tool failures, retries, tenant boundaries, retrieval quality, and evaluation.
+I build **backend systems and AI agents**, focusing on reliable tool use, retrieval quality, failure recovery, tenant isolation, and evaluation.
 
 My background spans **6 years of production engineering at Accenture (client: Dell Technologies) and TCS**, followed by an **M.S. in Software Engineering at San José State University** and research in agentic AI. Here, I explore those ideas through projects with readable architecture, runnable examples, and documented tradeoffs.
 
@@ -55,7 +55,7 @@ My background spans **6 years of production engineering at Accenture (client: De
 </tr>
 </table>
 
-**Also exploring:** [NeuroLens](https://github.com/Vyshnavi-d-p-3/NeuroLens) — adversarial robustness, from-scratch PyTorch models, and cross-modal perturbation transfer. [AdaptiveRateGuard](https://github.com/Vyshnavi-d-p-3/AdaptiveRateGuard) — Redis/gRPC rate limiting with a predictive traffic sidecar.
+**Also exploring:** [NeuroLens](https://github.com/Vyshnavi-d-p-3/NeuroLens) — adversarial robustness, from-scratch PyTorch models, and experiments in cross-modal perturbation transfer. [AdaptiveRateGuard](https://github.com/Vyshnavi-d-p-3/AdaptiveRateGuard) — Redis/gRPC rate limiting with a predictive traffic sidecar.
 
 ## How I approach engineering
 
@@ -67,7 +67,7 @@ My background spans **6 years of production engineering at Accenture (client: De
 
 | Where | Role | Engineering focus |
 |:--|:--|:--|
-| **Accenture · Dell Technologies**<br/>2021–2024 | Senior Software Engineer | SupportAssist backend services in C#/.NET, Angular/React interfaces, WebSocket updates, and a RAG-based in-app assistant |
+| **Accenture**<br/>Client: Dell Technologies<br/>2021–2024 | Senior Software Engineer | SupportAssist backend services in C#/.NET, Angular/React interfaces, WebSocket updates, and a RAG-based in-app assistant |
 | **TCS**<br/>2018–2021 | Software Engineer | Java/Spring Boot services, Redis, and multi-tenant OAuth2 SSO for a retail optimization platform |
 | **San José State University**<br/>2025–2026 | Research Assistant | Agentic AI, LLM tool use, and evaluation |
 
