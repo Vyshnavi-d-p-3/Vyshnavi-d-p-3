@@ -40,10 +40,15 @@ Other work includes [NeuroLens](https://github.com/Vyshnavi-d-p-3/NeuroLens), an
 
 ## Technical toolkit
 
-- **Languages:** Python, Java, C#, Go, TypeScript, C++
-- **Backend and AI:** .NET, Spring Boot, FastAPI, gRPC, LangChain, PyTorch
-- **Data and infrastructure:** PostgreSQL, pgvector, Redis, Docker, Kubernetes, AWS, Terraform
-- **Frontend:** React, Angular, Next.js
+- **AI and ML:** LLM agents, agent orchestration, tool calling, retrieval-augmented generation (RAG), LangChain, PyTorch
+- **Retrieval and evaluation:** Embeddings, hybrid search (BM25 + vector search), LLM evaluation harnesses, reproducible benchmarks, precision/recall/F1
+- **Languages:** Python, Go, Java, C#, TypeScript, C++, SQL
+- **Backend and APIs:** FastAPI, Spring Boot, .NET, gRPC, WebSockets
+- **Data and search:** PostgreSQL, pgvector, Redis, vector indexing, caching
+- **Systems and reliability:** Distributed systems, async orchestration, rate limiting, idempotency, retry policies, tracing, execution and cost budgets
+- **Security and tenancy:** OAuth2, SSO, PostgreSQL Row-Level Security, tenant isolation
+- **Cloud and infrastructure:** AWS, Docker, Kubernetes, Terraform
+- **Frontend:** React, Next.js, Angular
 
 ## Writing and practice
 
