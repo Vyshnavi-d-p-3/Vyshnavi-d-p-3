@@ -38,17 +38,6 @@ A multi-tenant OKR application exploring PostgreSQL Row-Level Security, safe ten
 
 Other work includes [NeuroLens](https://github.com/Vyshnavi-d-p-3/NeuroLens), an adversarial ML toolkit with from-scratch PyTorch models and cross-modal transfer experiments, and [AdaptiveRateGuard](https://github.com/Vyshnavi-d-p-3/AdaptiveRateGuard), a Redis/gRPC rate limiter with a predictive traffic sidecar.
 
-## Experience
-
-**Accenture — Senior Software Engineer, 2021–2024**  
-Client: Dell Technologies. Built SupportAssist backend services in C#/.NET, Angular/React interfaces, WebSocket updates, and a RAG-based in-app assistant.
-
-**TCS — Software Engineer, 2018–2021**  
-Worked on Java/Spring Boot services, Redis caching, and multi-tenant OAuth2 SSO for a retail optimization platform.
-
-**San José State University — Research Assistant, 2025–2026**  
-Researched agentic AI, LLM tool use, and evaluation.
-
 ## Technical toolkit
 
 - **Languages:** Python, Java, C#, Go, TypeScript, C++
